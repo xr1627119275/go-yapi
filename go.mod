@@ -1,0 +1,1 @@
+module "github.com/xr1627119275/go-yapi"
